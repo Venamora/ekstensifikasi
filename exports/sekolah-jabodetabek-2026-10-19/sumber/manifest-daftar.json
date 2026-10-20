@@ -1,0 +1,23 @@
+[
+  {
+    "file": "daftar-010000.csv",
+    "bytes": 2379055,
+    "sha256": "5b0067093227faf99175248fbab09d55ff17f3b89c04836367502395297ab0e3",
+    "rows": 11585,
+    "url": "https://api.data.belajar.id/data-portal-backend/v2/master-data/satuan-pendidikan/download/daftar/010000?format=csv"
+  },
+  {
+    "file": "daftar-020000.csv",
+    "bytes": 15661413,
+    "sha256": "a59eaf64dc8bcc59f24c5c49bfe4069bcd291f836578a16f9e0d70116de44a39",
+    "rows": 85475,
+    "url": "https://api.data.belajar.id/data-portal-backend/v2/master-data/satuan-pendidikan/download/daftar/020000?format=csv"
+  },
+  {
+    "file": "daftar-280000.csv",
+    "bytes": 3843044,
+    "sha256": "87b78a2238af0367167fc67c7ab762e39553203f3f8d4d81e7674a8e4ae7ebc5",
+    "rows": 20586,
+    "url": "https://api.data.belajar.id/data-portal-backend/v2/master-data/satuan-pendidikan/download/daftar/280000?format=csv"
+  }
+]

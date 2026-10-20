@@ -1,0 +1,11 @@
+{
+  "70063822": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70063822'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70064160": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70064160'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70063813": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70063813'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70064042": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70064042'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70064285": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70064285'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70064162": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70064162'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70064265": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70064265'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70063699": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70063699'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "70064302": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.data.belajar.id/data-portal-backend/v1/master-data/satuan-pendidikan/details/70064302'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+}

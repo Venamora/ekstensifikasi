@@ -1,0 +1,186 @@
+{
+  "total": 13963,
+  "wilayah": 14,
+  "jenjang": {
+    "SD": 8428,
+    "SMP": 3975,
+    "SMA": 1560
+  },
+  "detailBerhasil": 13954,
+  "detailTidakTersedia": 9,
+  "bentuk": {
+    "SD": 8326,
+    "SMP": 3886,
+    "SMA": 1487,
+    "SPK SD": 102,
+    "SPK SMP": 89,
+    "SPK SMA": 73
+  },
+  "statusTelepon": {
+    "Tercantum; belum diverifikasi": 11621,
+    "Tidak tersedia": 2331,
+    "Belum dapat diperiksa": 9,
+    "Perlu cek format": 2
+  },
+  "catatanData": 9,
+  "sourceUpdatedAt": {
+    "2026-08-16T17:44:53.819729Z": 13954,
+    "null": 9
+  },
+  "summary": [
+    [
+      "KAB. ADM. KEP. SERIBU",
+      14,
+      7,
+      1,
+      22,
+      20,
+      0,
+      2,
+      0
+    ],
+    [
+      "KAB. BEKASI",
+      1125,
+      454,
+      136,
+      1715,
+      1213,
+      0,
+      499,
+      3
+    ],
+    [
+      "KAB. BOGOR",
+      1863,
+      786,
+      248,
+      2897,
+      2184,
+      0,
+      711,
+      2
+    ],
+    [
+      "KAB. TANGERANG",
+      1070,
+      509,
+      199,
+      1778,
+      1364,
+      0,
+      414,
+      0
+    ],
+    [
+      "KOTA ADM. JAKARTA BARAT",
+      561,
+      283,
+      125,
+      969,
+      940,
+      0,
+      29,
+      0
+    ],
+    [
+      "KOTA ADM. JAKARTA PUSAT",
+      255,
+      110,
+      56,
+      421,
+      405,
+      0,
+      16,
+      0
+    ],
+    [
+      "KOTA ADM. JAKARTA SELATAN",
+      456,
+      226,
+      111,
+      793,
+      768,
+      0,
+      25,
+      0
+    ],
+    [
+      "KOTA ADM. JAKARTA TIMUR",
+      615,
+      267,
+      131,
+      1013,
+      981,
+      0,
+      32,
+      0
+    ],
+    [
+      "KOTA ADM. JAKARTA UTARA",
+      336,
+      195,
+      95,
+      626,
+      609,
+      0,
+      17,
+      0
+    ],
+    [
+      "KOTA BEKASI",
+      646,
+      311,
+      122,
+      1079,
+      914,
+      0,
+      163,
+      2
+    ],
+    [
+      "KOTA BOGOR",
+      272,
+      131,
+      58,
+      461,
+      372,
+      0,
+      89,
+      0
+    ],
+    [
+      "KOTA DEPOK",
+      441,
+      278,
+      84,
+      803,
+      660,
+      0,
+      142,
+      1
+    ],
+    [
+      "KOTA TANGERANG",
+      420,
+      196,
+      93,
+      709,
+      600,
+      0,
+      109,
+      0
+    ],
+    [
+      "KOTA TANGERANG SELATAN",
+      354,
+      222,
+      101,
+      677,
+      591,
+      2,
+      83,
+      1
+    ]
+  ]
+}
